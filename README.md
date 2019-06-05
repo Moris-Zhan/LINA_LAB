@@ -20,3 +20,8 @@ Android API 23
 
 ## Virtual Device Manager:
 Android studio Nexus 5 API 26
+
+## contributions
+* Leyan 70%
+* Jack  25%
+* Sawa   5%
