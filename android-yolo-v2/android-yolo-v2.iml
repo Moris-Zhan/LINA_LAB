@@ -87,7 +87,6 @@
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/build-info" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/check-manifest" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/classes" />
-      <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/dex-cache" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/incremental-classes" />
       <excludeFolder url="file://$MODULE_DIR$/gradleBuild/intermediates/incremental-runtime-classes" />
