@@ -22,6 +22,6 @@ Android API 23
 Android studio Nexus 5 API 26
 
 ## contributions
-* Leyan(N96071057) 70%
-* Jack(N96071180)  25%
-* Sawa(N96071164)   5%
+* Leyan(N96071057) 60%
+* Jack(N96071180)  30%
+* Sawa(N96071164)  10%
