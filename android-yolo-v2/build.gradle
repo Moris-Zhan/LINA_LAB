@@ -14,8 +14,8 @@
 project.buildDir = 'gradleBuild'
 getProject().setBuildDir('gradleBuild')
 project.ext.ASSET_DIR = projectDir.toString() + '/assets'
-assert file(project.ext.ASSET_DIR + "/yolov3-coco-tiny.pb").exists()
-assert file(project.ext.ASSET_DIR + "/yolov3-coco-tiny-labels.txt").exists()
+//assert file(project.ext.ASSET_DIR + "/yolov3-coco-tiny.pb").exists()
+//assert file(project.ext.ASSET_DIR + "/yolov3-coco-tiny-labels.txt").exists()
 buildscript {
     repositories {
         jcenter()
